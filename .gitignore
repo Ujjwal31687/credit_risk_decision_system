@@ -13,3 +13,4 @@ myenv/
 
 # Large files (optional)
 *.csv
+!sample_validation.csv
